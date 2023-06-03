@@ -93,7 +93,11 @@ def parse_args() -> dict:
 args = parse_args()
 
 file = args.get('file')
-output = args.get('output', os.path.splitext(file)[0])
+if args.get('output') == None:
+    t = file.replace('.sub', '')
+    output = args.get('t', os.path.splitext(file)[0])
+else:
+    output = args.get('output', os.path.splitext(file)[0])
 sampling_rate = args.get('sampling_rate', 500000)
 intermediate_freq = args.get('intermediate_freq') or sampling_rate // 100
 amplitude = args.get('amplitude', 100)
