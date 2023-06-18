@@ -13,4 +13,5 @@ Feel free to PR fixes or additions.
 
 RocketGod
 
-![RocketGod Logo](https://user-images.githubusercontent.com/57732082/213221533-171b37da-46e5-4661-ac47-c7f23d24b816.png)
+![RocketGod](https://github.com/RocketGod-git/flipper-sub-to-hackrf-portapack-c16-converter/assets/57732082/acaadb30-214c-4b42-b893-33de68230083)
+
