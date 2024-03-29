@@ -1,4 +1,5 @@
-# flipper-sub-to-hackrf-portapack-c16-converter
+# THIS IS CURRENTLY BROKEN 
+
 
 Welcome to the flipper-sub-to-hackrf-portapack-c16-converter repository. This project aims to convert .sub files to HackRF Portapack .c16 files using a Python script.
 
